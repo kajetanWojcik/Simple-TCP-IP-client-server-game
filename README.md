@@ -1,1 +1,1 @@
-# Simple-TCP-IP-client-server-game
+# Simple TCP/IP client-server game (Windows forms)
