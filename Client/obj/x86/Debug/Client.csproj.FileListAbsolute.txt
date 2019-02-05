@@ -1,0 +1,51 @@
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\bin\Debug\Client.exe.config
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\bin\Debug\Client.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\bin\Debug\Client.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\bin\Debug\ServerWcfService.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.frmClient.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\obj\x86\Debug\Client.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Client\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\bin\Debug\Client.exe.config
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\bin\Debug\Client.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\bin\Debug\Client.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\bin\Debug\ServerWcfService.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.frmClient.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Client\obj\x86\Debug\Client.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\bin\Debug\Client.exe.config
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\bin\Debug\Client.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\bin\Debug\Client.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\bin\Debug\ServerWcfService.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.frmClient.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\bin\Debug\Client.exe.config
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.exe
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\bin\Debug\Client.exe
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\bin\Debug\Client.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\bin\Debug\ChatLibrary.dll
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\bin\Debug\ServerWcfService.dll
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\bin\Debug\ChatLibrary.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.frmClient.resources
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache

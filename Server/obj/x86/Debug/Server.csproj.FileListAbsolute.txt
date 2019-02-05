@@ -1,0 +1,47 @@
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\bin\Debug\Server.exe.config
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\bin\Debug\Server.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\bin\Debug\Server.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.Form1.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\Server\obj\x86\Debug\Server.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\bin\Debug\Server.exe.config
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\bin\Debug\Server.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\bin\Debug\Server.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.Form1.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\Server\obj\x86\Debug\Server.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.Form1.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\bin\Debug\Server.exe.config
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\bin\Debug\Server.exe
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\bin\Debug\Server.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\SIĘGNĄĆ CHMUR\Server\bin\Debug\ChatLibrary.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\bin\Debug\Server.exe.config
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.exe
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\bin\Debug\Server.exe
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\bin\Debug\Server.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\bin\Debug\ChatLibrary.dll
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\bin\Debug\ChatLibrary.pdb
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.Form1.resources
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Dokumenty\SIĘGNĄĆ CHMUR\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache

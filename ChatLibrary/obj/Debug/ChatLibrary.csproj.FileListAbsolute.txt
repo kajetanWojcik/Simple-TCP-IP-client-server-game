@@ -1,0 +1,12 @@
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\ChatLibrary\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\ChatLibrary\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\ChatLibrary\bin\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\ChatLibrary\bin\Debug\ChatLibrary.pdb
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.csproj.CoreCompileInputs.cache
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.dll
+D:\Pulpit2\Magisterka\ProgramowanieSieciow\żyrafy\ChatCODEPROJECT\ChatLibrary\obj\Debug\ChatLibrary.pdb
